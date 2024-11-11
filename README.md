@@ -77,7 +77,7 @@ Start the frontend using Vite:
 bash
 Copy code
 npm run dev
-The frontend should now be running on http://localhost:3000.
+The frontend should now be running on http://localhost:5000.
 
 Project Structure
 plaintext
