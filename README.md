@@ -44,7 +44,7 @@
 
 <h4>Clone the Repository</h4>
 <pre><code>git clone https://github.com/wasifa-khan/polling-app.git
-cd polling-app
+
 </code></pre>
 
 <h4>Backend Setup</h4>
